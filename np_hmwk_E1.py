@@ -2,7 +2,7 @@ import numpy as np
 A=np.array([[0.20,-0.50,1.10,0.40],
             [0.80,0.30,-0.70,0.60],
             [-0.40,0.90,0.10,-0.20]])
-print(f"A的秩：{A.ndim}")
+print(f"A的维度：{A.ndim}")
 print(f"A的形状：{A.shape}")
 print(f"A的元素个数：{A.size}")
 
