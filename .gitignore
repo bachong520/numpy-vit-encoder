@@ -1,0 +1,22 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*$py.class
+build/
+dist/
+*.egg-info/
+
+# ---- 虚拟环境 ----
+.venv/
+venv/
+env/
+
+# ---- PyCharm / IDE ----
+.idea/
+*.iml
+.vscode/
+
+# ---- 杂项 ----
+.DS_Store
+Thumbs.db
+*.log
