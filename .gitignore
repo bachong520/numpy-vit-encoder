@@ -16,6 +16,9 @@ env/
 *.iml
 .vscode/
 
+# ---- 课程资料（题面 PDF 只留本地，不入库）----
+*.pdf
+
 # ---- 杂项 ----
 .DS_Store
 Thumbs.db
