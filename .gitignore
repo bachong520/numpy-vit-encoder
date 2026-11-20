@@ -28,3 +28,7 @@ project1-numpy-student/assets/reference_outputs.npz
 .DS_Store
 Thumbs.db
 *.log
+
+# ---- 生成的中间产物 ----
+project1-numpy-student/output_tokens.npz
+*.npz
