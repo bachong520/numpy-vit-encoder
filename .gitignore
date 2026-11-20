@@ -19,6 +19,11 @@ env/
 # ---- 课程资料（题面 PDF 只留本地，不入库）----
 *.pdf
 
+# ---- 课程提供的大文件（不入库）----
+# weights/image_encoder.npz 有 312 MB，超过 GitHub 单文件 100 MB 硬限制
+project1-numpy-student/weights/
+project1-numpy-student/assets/reference_outputs.npz
+
 # ---- 杂项 ----
 .DS_Store
 Thumbs.db
